@@ -57,6 +57,7 @@ The United States records the highest number of social media posts (188), follow
 Likes distribution shows that Instagram contributes the largest share of total likes, reinforcing its role as a high-engagement platform.
 
 📌 Author
+
 Olanireti Itajobi
 
 Intern, Codveda Technologies
