@@ -4,17 +4,20 @@ The dashboard analyzes social media posts across multiple platforms and countrie
 The project was completed as Level 3 – Task 2 of the Codveda Technologies Data Analytics Internship.
 
 ## Objectives
+
 •	Analyze social media sentiment across countries and platforms
 •	Visualize engagement metrics (likes, retweets)
 •	Identify sentiment trends over time
 •	Build an interactive dashboard for exploratory analysis
 
 ## Tools & Technologies
+
 •	Power BI – Data modeling & visualization
 •	CSV Dataset – Social media sentiment data
 •	DAX – Aggregations and KPIs
 
 ## Dashboard Features
+
 •	KPI Cards: Total Posts, Total Likes, Total Retweets
 •	Platform Comparison: Posts by Instagram, Twitter, and Facebook
 •	Sentiment Distribution: Top 10 sentiments by frequency
@@ -24,6 +27,7 @@ The project was completed as Level 3 – Task 2 of the Codveda Technologies Data
 •	Interactive Slicers: Country, Sentiment, and Year
 
 ## Dataset Description
+
 •	Each row represents a single social media post
 •	Key fields include: Id, Text, Sentiment, Platform, Likes, Retweets, Country, and Timestamp
 •	Time-based fields (Year, Month) were derived for trend analysis
@@ -54,4 +58,5 @@ Likes distribution shows that Instagram contributes the largest share of total l
 
 📌 Author
 Olanireti Itajobi
+
 Intern, Codveda Technologies
